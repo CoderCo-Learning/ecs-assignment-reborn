@@ -9,12 +9,12 @@ You’ll design and build a small app or service—anything you like—then depl
 ## Requirements 📝
 
 - Create Your Own App/Service
-  - Must have at least one route or endpoint serving dynamic data (e.g., JSON, HTML, or specialized output).
+  - Must have at least one route or endpoint serving dynamic data (e.g., JSON, HTML, or specialised output).
   - You decide the tech stack, the language, the framework, etc.
   - Provide minimal instructions in your README for local setup.
 
 - Deployment Target: ECS or Lambda
-  - You must containerize your app if you choose ECS (push to ECR or DockerHub, your call).
+  - You must containerise your app if you choose ECS (push to ECR or DockerHub, your call).
   - If you choose Lambda, package the function for deployment. You must still store code in some repository.
   - Must run behind HTTPS (i.e., must have a domain, certificate and secure endpoint).
 
