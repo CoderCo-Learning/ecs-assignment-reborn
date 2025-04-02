@@ -51,3 +51,12 @@ You’ll design and build a small app or service—anything you like—then depl
 - Advanced: If you want to stand out, consider canary deployments, multi-stage env, or custom logging/monitoring solutions.
 
 Goal: Challenge yourself. This is intentionally open-ended so you can’t just copy/paste from GPT or tutorials. Demonstrate creativity, best practices and mastery of Infrastructure & DevOps.
+
+### Example apps you may use
+
+If you need some inspiration, here are some example apps you may use:
+
+- [Robotshop - Sample microservices application for playing with](https://github.com/instana/robot-shop)
+- [Sample project to create an application using microservices architecture](https://github.com/mudigal-technologies/microservices-sample)
+- [Simple microservices application](https://github.com/microservices-demo/microservices-demo)
+- Bring your own app!
